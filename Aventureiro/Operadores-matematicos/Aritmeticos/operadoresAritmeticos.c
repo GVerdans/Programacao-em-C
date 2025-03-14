@@ -2,6 +2,8 @@
 
 int main(){
 
+    // Operadores aritmeticos
+
     int num1, num2;
     int soma, subi, multi, divi;
     
@@ -12,6 +14,8 @@ int main(){
     printf("Digite o segundo numero para as operações: \n");
     scanf("%i", &num2);
     
+    // Operadores \/
+
     soma = num1 + num2;
     subi = num1 - num2;
     multi = num1 * num2;
