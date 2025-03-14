@@ -28,4 +28,6 @@ resultado2 = ++num2;
 printf("Resultado com pre incremento: %i\n", resultado2);
 printf("Agora num2 vale: %i\n\n", num2);
 
+return 0;
+
 }
