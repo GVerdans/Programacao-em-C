@@ -30,6 +30,7 @@ float num1 = 10.2;
 int num2 = 10;
 
 // Converção explicita para comprar os numeros inteiros, e nao considerar o decimal.
+
 printf("num1 > num2: %d\n", (int)num1 > num2);
 printf("num1 == num2: %d\n", (int)num1 == num2);
 
