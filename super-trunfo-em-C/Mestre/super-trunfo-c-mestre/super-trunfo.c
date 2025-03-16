@@ -103,6 +103,21 @@ int main()
     printf("PIB per Capita: %.2f reais\n", PIBPC2);
     printf("Super Poder: %.2f\n\n", superPoder2);
 
+    // COMPARAÇÕES
+
+
+    printf("===========================\n");
+    printf("|| Comparação de Cartas ||\n");
+    printf("===========================\n\n");
+    printf("Cartas 1 - 1\nCarta 2 - 0\n\n");
+
+    printf("População: Carta %d\n", populacao1 > populacao2);
+    printf("Área: Carta %d\n", areaCidade1 > areaCidade2);
+    printf("PIB: Carta %d\n", PIB1 > PIB2);
+    printf("Pontos Turísticos: Carta %d\n", numPontosTuristicos1 > numPontosTuristicos2);
+    printf("Densidade Populacional: Carta %d\n", densiPop1 < densiPop2);
+    printf("PIB per Capita: Carta %d\n", PIBPC1 > PIBPC2);
+    printf("Super Poder: Carta %d\n", superPoder1 > superPoder2);
     
     return 0;
 }
