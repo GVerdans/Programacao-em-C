@@ -1,2 +1,5 @@
 # Programacao-em-C
-1⁰ semestre né.
+## 1⁰ Período da Faculdade de ADS.
+
+**Início - 03MAR**
+**Término - ASD**
