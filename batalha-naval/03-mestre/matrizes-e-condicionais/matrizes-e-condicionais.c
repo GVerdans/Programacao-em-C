@@ -1,0 +1,72 @@
+#include <stdio.h>
+
+int main(){
+    int matriz[3][3] = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
+
+    // for(int i = 0; i < 3; i++){
+
+    //     for(int j = 0; j < 3; j++){
+
+    //         if(j % 2 == 0){
+    //             matriz[i][j] = 1;
+    //         } else {
+    //             matriz[i][j] = 0;
+    //         }
+    //     }
+    // }
+
+
+
+    // for(int i = 0; i < 3; i++){
+    //     for(int j = 0; j < 3; j++){
+    //         printf("%d", matriz[i][j]);
+    //     }
+
+    //     printf("\n");
+    // }
+
+    /*------------------------------------------------*/
+
+    // for(int i = 0; i < 3; i++){
+
+    //     for(int j = 0; j < 3; j++){
+
+    //         if(matriz[i][j] > 5){
+    //             matriz[i][j] = -matriz[i][j];
+    //         }
+    //     }
+    // }
+
+    // for(int i = 0; i < 3; i++){
+
+    //     for(int j = 0; j < 3; j++){
+    //         printf(" %2d", matriz[i][j]);
+    //     }
+    //     printf("\n");
+    // }
+    
+    // printf("\n");
+
+    /*-------------------------------------------------------------*/
+
+    // int evenCount = 0, oddCount = 0;
+
+    // for(int i = 0; i < 3; i++){
+
+    //     for(int j = 0; j < 3; j++){
+
+    //         if(matriz[i][j] % 2 == 0){
+    //             evenCount++;
+
+    //         } else {
+    //             oddCount++;
+    //         }
+    //     }
+    // }
+
+    // printf("Numero de Elementos Pares: %d\n", evenCount);
+    // printf("Numero de Elementos Impares: %d\n", oddCount);
+
+    /*--------------------------------------------------------------*/
+    return 0;
+}
