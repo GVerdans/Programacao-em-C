@@ -2,4 +2,4 @@
 ## 1⁰ Período da Faculdade de ADS.
 
 - **Início - 03MAR**
-- **Término - ASD**
+- **Término - 01ABR**
